@@ -13,8 +13,8 @@ function Pollinators2026Page() {
                 Roots System: Introducing the Pollinators of DWebCamp 2026
               </h1>
               <img
-                src="/images/pollinators-2026-promo.jpg"
-                alt="People sitting under the tea tent"
+                src="/images/pollinators-2026-blog-image.jpg"
+                alt="DWeb Camp 2024’s Fellows"
               />
               <div className="building-block__text">
                 <p>By Marie Kochsiek</p>
@@ -756,6 +756,10 @@ function Pollinators2026Page() {
                   <q>Temple of the Wandering Daughters</q> will be their session
                   at DWebCamp 2026.
                 </p>
+              <img
+                src="/images/pollinators-2026-promo.jpg"
+                alt="People sitting under the tea tent"
+              />
               </div>
             </div>
           </div>
